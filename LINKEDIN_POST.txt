@@ -1,0 +1,20 @@
+🌐 Task 3: AI Website Generation | InAmigos Foundation
+
+I'm excited to share my AI-assisted website creation project! 💻🌿
+
+For this task, I developed a responsive website concept for a fictional environmental initiative, Green Earth Foundation.
+
+✨ Website highlights:
+• Home, About Us and Services
+• Featured environmental projects
+• Impact dashboard with clearly labelled illustrative figures
+• Get Involved and Contact sections
+• Responsive layout for desktop and mobile
+
+This project helped me explore how AI-assisted workflows can support website planning, content creation, and responsive front-end development.
+
+🔗 Live website: [PASTE YOUR ACTUAL PUBLISHED URL HERE]
+
+#AIWebsiteGeneration #ArtificialIntelligence #WebDevelopment #Sustainability #InAmigosFoundation
+
+Before posting: replace the placeholder with your real published URL and tag the official InAmigos Foundation page using LinkedIn's tag feature if available.

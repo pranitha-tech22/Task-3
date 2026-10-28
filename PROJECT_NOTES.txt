@@ -1,0 +1,9 @@
+PROJECT NOTES
+=============
+Project title: Green Earth Foundation — Together for a Greener Tomorrow
+Domain: Environmental awareness / fictional NGO
+Purpose: Demonstrate AI-assisted website planning and responsive front-end development.
+Sections: Home, About, Services, Projects, Impact, Get Involved, Contact, Footer.
+Design: Nature-inspired green palette, responsive navigation, cards, stats, contact form demo.
+Accessibility basics: semantic sections, form labels, image alt text, focus styles, responsive layout.
+Limitations: External images require internet. Contact form is a front-end demo; no backend or email sending. Illustrative impact figures are not verified facts.

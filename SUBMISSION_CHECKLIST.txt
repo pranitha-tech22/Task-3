@@ -1,0 +1,32 @@
+TASK 3 SUBMISSION CHECKLIST
+===========================
+
+[ ] Preview index.html in a browser.
+[ ] Publish the site using an AI builder or static hosting service.
+[ ] Open the live URL on desktop/mobile and check every navigation link.
+[ ] Take screenshots of: Home, About, Services, Projects, Impact, Contact, and the live published URL.
+[ ] Create a Google Drive folder named "Task 3 - AI Website Generation".
+[ ] Upload this ZIP, screenshots, and a text file containing the actual live URL.
+[ ] Copy LINKEDIN_POST.txt and replace the URL placeholder.
+[ ] Publish the post on LinkedIn and tag InAmigos Foundation.
+[ ] Take a screenshot of the published LinkedIn post.
+[ ] Upload the post screenshot to the same Drive folder.
+
+Suggested folder structure:
+Task 3 - AI Website Generation/
+  Website Files/
+    index.html
+    project ZIP
+  Screenshots/
+    01-home.png
+    02-about.png
+    03-services.png
+    04-projects.png
+    05-impact.png
+    06-contact.png
+    07-live-website.png
+    08-linkedin-post.png
+  Website Link.txt
+  LinkedIn Post.txt
+
+Note: I cannot publish to your hosting account, upload to your Google Drive, or post to your LinkedIn account from this generated package. You must complete those account-specific steps and use the real URLs/screenshots as proof.
